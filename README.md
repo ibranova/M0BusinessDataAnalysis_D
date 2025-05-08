@@ -128,10 +128,10 @@ Example: `Customer Type`, `Type of Travel`, `In-flight Wifi Service`, `Cleanline
 - In-Flight Service, Baggage Handling, and Seat Comfort are the best 3 Rating Services from Passengers.
 - Wifi, Ease of Online Booking, and Gate Location services got poor ratings from Passengers.
 
-  To Improve Customer Satisfaction, The Airline company:
+  To Improve Customer Satisfaction, The Airline company should:
   - Improve punctuality by minimizing delays and communicating clearly when they happen.
   - Enhance in-flight experience: offer better food, entertainment, Wi-Fi, and seating comfort.
-  - Train staff should be focused and friendly, and provide efficient service from booking to baggage claim.
+  - Train staff to be focused and friendly, and provide efficient service from booking to baggage claim.
   - Reward frequent flyers with perks like upgrades, early boarding, or lounge access.
   - Handle complaints quickly by responding promptly to issues and offering compensation when appropriate.
 
